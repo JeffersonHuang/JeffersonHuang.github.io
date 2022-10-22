@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo NexT</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Hugo NexT</description>
+    <title>Posts on Jefferson&#39;s blog</title>
+    <link>https://jeffersonhuang.github.io/posts/</link>
+    <description>Recent content in Posts on Jefferson&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Oct 2022 14:44:57 +0800</lastBuildDate><atom:link href="/posts/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 14:44:57 +0800</lastBuildDate><atom:link href="https://jeffersonhuang.github.io/posts/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>成一家之言</title>
+      <link>https://jeffersonhuang.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 20 Oct 2022 14:44:57 +0800</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://jeffersonhuang.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     

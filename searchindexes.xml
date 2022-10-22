@@ -2,13 +2,28 @@
 <search>
   
   <entry>
-    <title>My First Post</title>
+    <title>成一家之言</title>
     <url>/posts/my-first-post/</url>
     <categories>
     </categories>
     <tags>
     </tags>
     <content type="html"><![CDATA[]]></content>
+  </entry>
+  
+  <entry>
+    <title>关于 Hugo Nex</title>
+    <url>/about.html</url>
+    <categories>
+    </categories>
+    <tags>
+    </tags>
+    <content type="html"><![CDATA[ 全职 Flutter 开发工程师💻
+一个持续学习者，热爱编程🤔，热衷开源。
+喜欢研究一些新鲜的事物，喜欢🎶、📖
+喜欢打🎾、🚴🏻也是一个不错的选择。
+有时会在 Leetcode 刷题目,🥬🐓一个
+]]></content>
   </entry>
   
 </search>

@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo NexT</title>
-    <link>/</link>
-    <description>Recent content on Hugo NexT</description>
+    <title>Jefferson&#39;s blog</title>
+    <link>https://jeffersonhuang.github.io/</link>
+    <description>Recent content on Jefferson&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Oct 2022 14:44:57 +0800</lastBuildDate><atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 14:44:57 +0800</lastBuildDate><atom:link href="https://jeffersonhuang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>成一家之言</title>
+      <link>https://jeffersonhuang.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 20 Oct 2022 14:44:57 +0800</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://jeffersonhuang.github.io/posts/my-first-post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>关于 Hugo Nex</title>
+      <link>https://jeffersonhuang.github.io/about.html</link>
+      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
+      
+      <guid>https://jeffersonhuang.github.io/about.html</guid>
+      <description>全职 Flutter 开发工程师💻
+一个持续学习者，热爱编程🤔，热衷开源。
+喜欢研究一些新鲜的事物，喜欢🎶、📖
+喜欢打🎾、🚴🏻也是一个不错的选择。
+有时会在 Leetcode 刷题目,🥬🐓一个</description>
     </item>
     
   </channel>
